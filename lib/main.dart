@@ -9,7 +9,7 @@ void main() {
     const MaterialApp(
       home: Scaffold(
         backgroundColor: Colors.green,
-        body: GradientContainerRGBY(),
+        body: GradientContainerRGBY.litir(),
       ),
     ),
   );
